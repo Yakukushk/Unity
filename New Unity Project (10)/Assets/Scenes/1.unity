@@ -3083,7 +3083,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2566528596039546380, guid: 80b820f4c2cfd9e488d4f9888089f980, type: 3}
       propertyPath: JumpForce
-      value: 70
+      value: 110
       objectReference: {fileID: 0}
     - target: {fileID: 2566528596039546383, guid: 80b820f4c2cfd9e488d4f9888089f980, type: 3}
       propertyPath: m_RootOrder

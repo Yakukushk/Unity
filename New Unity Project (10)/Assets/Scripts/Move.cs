@@ -8,7 +8,7 @@ public class Move : MonoBehaviour
     //public GameObject Object;
     [SerializeField] private float speed = 0.5f;
     private Rigidbody2D rigidbody;
-    [SerializeField] private float JumpForce = 2f;
+    [SerializeField] private float JumpForce = 20f;
     public bool onGround;
     public GameObject picker;
     public Animator anim;
